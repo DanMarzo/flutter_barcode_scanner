@@ -17,13 +17,6 @@ import com.google.android.gms.vision.barcode.Barcode;
 
 import java.util.Map;
 
-//SUBSTITUIR FlutterActivity --> FlutterFragmentActivity
-/*
-    ESSE PACOTE TRABALHA COM O FLUTERACTIVITY, O QUE CAUSA PROBLEMA
-    COM OUTROS PACKAGES, A EXEMPLO DO LOCAL_AUTH (BIOMETRIA)
-    CORREÇÃO PARCIAL É SUBSTITUIR FLUTERACTIVITY POR FLUTERFRAGMENTACTIVITY
-    ESTARÁ EM TESTES AFIM DE EVITAR PROBLEMAS AO USUARIO FINAL
-*/
 import io.flutter.embedding.android.FlutterFragmentActivity;
 //import io.flutter.embedding.android.FlutterActivity;
 
