@@ -1,7 +1,7 @@
 #!/bin/sh
 # This is a generated file; do not edit or check into version control.
-export "FLUTTER_ROOT=C:\flutter"
-export "FLUTTER_APPLICATION_PATH=C:\rrsoft_project\PetMaster\PetMaster\PetMasterProMobile\packages\flutter_barcode_scanner-2.0.0\example"
+export "FLUTTER_ROOT=E:\flutter_paths\flutter_3.19"
+export "FLUTTER_APPLICATION_PATH=C:\Users\marzo\Desktop\flutter_barcode_scanner\example"
 export "COCOAPODS_PARALLEL_CODE_SIGN=true"
 export "FLUTTER_TARGET=lib\main.dart"
 export "FLUTTER_BUILD_DIR=build"
